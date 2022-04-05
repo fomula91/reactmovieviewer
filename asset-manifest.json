@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/https//fomula91.github.io/reactmovieviewer/static/js/main.0c55cca5.js",
+    "main.js": "/https//fomula91.github.io/reactmovieviewer/static/js/main.ecda5fb7.js",
     "index.html": "/https//fomula91.github.io/reactmovieviewer/index.html",
-    "main.0c55cca5.js.map": "/https//fomula91.github.io/reactmovieviewer/static/js/main.0c55cca5.js.map"
+    "main.ecda5fb7.js.map": "/https//fomula91.github.io/reactmovieviewer/static/js/main.ecda5fb7.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c55cca5.js"
+    "static/js/main.ecda5fb7.js"
   ]
 }
